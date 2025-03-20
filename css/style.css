@@ -1,0 +1,19 @@
+header {
+  background-color: lavenderblush;
+  position: relative;
+  padding: 10px;
+  text-align: left;
+  justify-content: space-between;
+  display: flex;
+  border-radius: 10px;
+}
+nav {
+  text-align: right;
+  display: flexbox;
+  padding: 10px;
+}
+section {
+}
+footer {
+  text-align: center;
+}
